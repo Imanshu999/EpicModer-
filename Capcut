@@ -1,6 +1,6 @@
 {
   "packageName": "com.capcut.modhub",
-  "versionName": "27.0.0",
+  "versionName": "29.0.0",
   "forceUpdate": false,
   "ExpiredDate": "2025/11/22 02:20",
   "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
@@ -13,7 +13,7 @@
   },
   "appList": [
     {
-      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Icon_instapro.png",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg",
       "appName": "INSTAPRO",
       "appVersion": "15.25.0",
       "url": "https://look-mod.vercel.app/#/app/instapro"
