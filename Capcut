@@ -11,14 +11,6 @@
     "iconUrl1": "https://bit.ly/EM_ClickMe",
     "iconUrl2": "https://bit.ly/EM_ClickMe2"
   },
-  "appList": [
-    {
-      "iconUrl": "https://bit.ly/icon_CapCut",
-      "appName": "CapCut PRO",
-      "appVersion": "20.2.0",
-      "url": "https://telegram.me/EpicModder"
-    }
-  ],
   "epicList": [
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Takano3d_avatar_1783771284341.png",
