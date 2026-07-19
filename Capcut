@@ -13,10 +13,10 @@
   },
   "appList": [
     {
-      "iconUrl": "https://bit.ly/icon_CapCut",
-      "appName": "CapCut PRO",
-      "appVersion": "20.2.0",
-      "url": "https://telegram.me/EpicModder"
+      "iconUrl": "https://commons.wikimedia.org/wiki/File:Icon_instapro.png",
+      "appName": "INSTAPRO",
+      "appVersion": "15.25.0",
+      "url": "https://look-mod.vercel.app/#/app/instapro"
     }
   ],
   "epicList": [
