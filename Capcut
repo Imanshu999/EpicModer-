@@ -13,7 +13,7 @@
   },
   "appList": [
     {
-      "iconUrl": "https://commons.wikimedia.org/wiki/File:Icon_instapro.png",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Icon_instapro.png",
       "appName": "INSTAPRO",
       "appVersion": "15.25.0",
       "url": "https://look-mod.vercel.app/#/app/instapro"
