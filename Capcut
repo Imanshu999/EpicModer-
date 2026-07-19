@@ -18,7 +18,8 @@
       "appVersion": "20.2.0",
       "url": "https://telegram.me/EpicModder"
     },
-
+  ]
+"epicList": [
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Takano3d_avatar_1783771284341.png",
       "url": "https://mod-hub-flax.vercel.app"
