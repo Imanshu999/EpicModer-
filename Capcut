@@ -11,33 +11,6 @@
     "iconUrl1": "https://bit.ly/EM_ClickMe",
     "iconUrl2": "https://bit.ly/EM_ClickMe2"
   },
-  "appList": [
-    {
-      "iconUrl": "",
-      "appName": "",
-      "appVersion": "",
-      "url": ""
-    },
-    {
-      "iconUrl": "",
-      "appName": "",
-      "appVersion": "",
-      "url": ""
-    },
-    {
-      "iconUrl": "",
-      "appName": "",
-      "appVersion": "",
-      "url": ""
-    },
-    {
-      "iconUrl": "",
-      "appName": "",
-      "appVersion": "",
-      "url": ""
-    }
-  ],
-  "epicList": [
     {
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Takano3d_avatar_1783771284341.png",
       "url": "https://mod-hub-flax.vercel.app"
