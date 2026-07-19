@@ -1,5 +1,5 @@
 {
-  "packageName": "org.telegram.modhub",
+  "packageName": "org.telegram.messenger.wec.modhub",
   "versionName": "12.8.3",
   "forceUpdate": false,
   "ExpiredDate": "2025/11/22 02:20",
